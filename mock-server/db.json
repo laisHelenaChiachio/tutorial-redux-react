@@ -1,12 +1,18 @@
 {
-  "items": [
-    {
-      "id": 1,
-      "description": "An item"
-    },
-    {
-      "id": 2,
-      "description": "Another item"
-    }
-  ]
+  "users": {
+    "id": 1,
+    "name": "Lais"
+  },
+  "posts": {
+    "id": 1,
+    "title": "My first post",
+    "content": "It's a content!",
+    "userId": 1
+  },
+  "comments": {
+    "id": 1,
+    "comment": "A comment about the post",
+    "userId": 1,
+    "postId": 1
+  }
 }
