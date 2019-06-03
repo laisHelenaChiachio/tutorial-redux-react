@@ -1,10 +1,10 @@
 {
-  "name": "odds-reactor",
+  "name": "tutorial-redux-react",
   "version": "1.0.0",
-  "description": "ODDS - One Day Development Stack",
+  "description": "A react tutorial using redux",
   "main": "index.js",
-  "repository": "https://github.com/FerJSsilva/Odds-Reactor.git",
-  "author": "Fernando JS Silva <development.ferjssilva@gmail.com>",
+  "repository": "https://github.com/laisHelenaChiachio/tutorial-redux-react",
+  "author": "Lais Helena Chiachio de Miranda <lalena.chiachio@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --config=config/webpack.dev.js --hot",
