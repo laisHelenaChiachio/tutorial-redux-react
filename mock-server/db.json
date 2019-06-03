@@ -1,18 +1,24 @@
 {
-  "users": {
-    "id": 1,
-    "name": "Lais"
-  },
-  "posts": {
-    "id": 1,
-    "title": "My first post",
-    "content": "It's a content!",
-    "userId": 1
-  },
-  "comments": {
-    "id": 1,
-    "comment": "A comment about the post",
-    "userId": 1,
-    "postId": 1
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Lais"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "content": "It's a content!",
+      "userId": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "A comment about the post",
+      "userId": 1,
+      "postId": 1
+    }
+  ]
 }
