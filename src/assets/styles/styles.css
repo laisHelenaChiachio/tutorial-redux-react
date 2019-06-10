@@ -95,3 +95,13 @@
   to   { opacity: 1; }
 }
 /* end of fade in effect on logo */
+
+/* basic style */
+#todoListInput {
+  width: 40%;
+}
+
+#todoListSAddButton {
+  width: 10%;
+  margin-left: 5%;
+}
